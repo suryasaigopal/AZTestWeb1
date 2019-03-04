@@ -5,6 +5,10 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AZTestWeb1", "AZTestWeb1\AZTestWeb1.csproj", "{6D72A1D7-2065-45FE-B568-6040873757EE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BussinessLayer", "BussinessLayer\BussinessLayer.csproj", "{EDC40F2D-F6FE-4F08-8BC0-6C631ECC844F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "UnitTestProject1\UnitTestProject1.csproj", "{D977A016-B635-4905-992F-BBFAFDD924ED}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{6D72A1D7-2065-45FE-B568-6040873757EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6D72A1D7-2065-45FE-B568-6040873757EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6D72A1D7-2065-45FE-B568-6040873757EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDC40F2D-F6FE-4F08-8BC0-6C631ECC844F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDC40F2D-F6FE-4F08-8BC0-6C631ECC844F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDC40F2D-F6FE-4F08-8BC0-6C631ECC844F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDC40F2D-F6FE-4F08-8BC0-6C631ECC844F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D977A016-B635-4905-992F-BBFAFDD924ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D977A016-B635-4905-992F-BBFAFDD924ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D977A016-B635-4905-992F-BBFAFDD924ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D977A016-B635-4905-992F-BBFAFDD924ED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
